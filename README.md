@@ -27,33 +27,33 @@
 <table>
   <tr align="center"><strong>Favorites projects</strong>
     <td>
-      <a title="C++ exception class and macros with easy nested declaration and localisation data." href="https://github.com/nojhan/exceptions">exceptions</a>
+      <a title="C++ exception class and macros with easy nested declaration and localisation data." href="https://github.com/nojhan/exceptions">exceptions</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
     </td>
     <td>
-      <a title="An (auto)ssh tunnel monitor." href="https://github.com/nojhan/tunnelmon">tunnelmon</a>
+      <a title="An (auto)ssh tunnel monitor." href="https://github.com/nojhan/tunnelmon">tunnelmon</a><br/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
     <td>
-      <a title="Example of how to build services that use named pipes FIFO as I/O." href="https://github.com/nojhan/named-pipes-services">named-pipes-services</a>
+      <a title="Example of how to build services that use named pipes FIFO as I/O." href="https://github.com/nojhan/named-pipes-services">named-pipes-services</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></td>
     <td>
-      <a title="Educational demo of design patterns which are useful for algorithmics." href="https://github.com/nojhan/algopattern">algopattern</a>
+      <a title="Educational demo of design patterns which are useful for algorithmics." href="https://github.com/nojhan/algopattern">algopattern</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
       <img height="16" src="https://raw.githubusercontent.com/get-icon/geticon/3d586ebac68a43c8358d030ee96c9e07afeff489/logos/java.svg"/>
     </td>
     <td>
-      <a title="An attempt at using as many as possible cool computer science stuff to produce a single image." href="https://github.com/nojhan/ubergeekism">übergeekism</a>
+      <a title="An attempt at using as many as possible cool computer science stuff to produce a single image." href="https://github.com/nojhan/ubergeekism">übergeekism</a><br/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
     <td>
-      <a title="My own configuration files." href="https://github.com/nojhan/dotfiles">dotfiles</a>
+      <a title="My own configuration files." href="https://github.com/nojhan/dotfiles">dotfiles</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg"/>
     </td>
     <td>
-      <a title="A dark 256-colors scheme for the kakoune editor, designed for usability and consistency." href="https://github.com/nojhan/kalolo">kalolo</a>
+      <a title="A dark 256-colors scheme for the kakoune editor, designed for usability and consistency." href="https://github.com/nojhan/kalolo">kalolo</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/mawww/kakoune/master/doc/kakoune_logo.svg"/>
     </td>
   </tr>
@@ -62,11 +62,11 @@
 <table>
   <tr><strong>Notable contributions</strong>
     <td>
-      <a title="Experimental plateform for Iterative Optimization Heuristics." href="https://github.com/nojhan/IOHexperimenter">IOHexperimenter</a>
+      <a title="Experimental plateform for Iterative Optimization Heuristics." href="https://github.com/nojhan/IOHexperimenter">IOHexperimenter</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
     </td>
     <td>
-      <a title="A terminal for Gnome." href="https://github.com/nojhan/terminator">terminator</a>
+      <a title="A terminal for Gnome." href="https://github.com/nojhan/terminator">terminator</a><br/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
   </tr>
