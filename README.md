@@ -18,7 +18,7 @@
     </td>
     <td>
       <a title="C++ logging system which targets versatile, (de)clutchable, _debugging_ instead of service event storage, in a single header." href="https://github.com/nojhan/clutchlog">
-        <img width="200" src="https://raw.githubusercontent.com/nojhan/clutchlog/master/docs/clutchlog_logo.svg" />
+        <img width="125" src="https://raw.githubusercontent.com/nojhan/clutchlog/master/docs/clutchlog_logo.svg" />
       </a>
     </td>
   </tr>
