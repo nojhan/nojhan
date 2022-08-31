@@ -27,17 +27,22 @@
 <table>
   <tr align="center"><strong>Favorites projects</strong>
     <td>
-      <a title="C++ exception class and macros with easy nested declaration and localisation data." href="https://github.com/nojhan/exceptions">exceptions</a><br/>
-      <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
+      <a title="An (auto)ssh tunnel monitor." href="https://github.com/nojhan/tunnelmon">tunnelmon</a><br/>
+      <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
     <td>
-      <a title="An (auto)ssh tunnel monitor." href="https://github.com/nojhan/tunnelmon">tunnelmon</a><br/>
+      <a title="Automagically backup a time stamped snapshot of a file that you edit with any program, each time you hit 'save'". href="https://github.com/nojhan/flicksave">flicksave</a><br/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
     <td>
       <a title="Example of how to build services that use named pipes FIFO as I/O." href="https://github.com/nojhan/named-pipes-services">named-pipes-services</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
-      <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></td>
+      <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
+    </td>
+    <td>
+      <a title="C++ exception class and macros with easy nested declaration and localisation data." href="https://github.com/nojhan/exceptions">exceptions</a><br/>
+      <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
+    </td>
     <td>
       <a title="Educational demo of design patterns which are useful for algorithmics." href="https://github.com/nojhan/algopattern">algopattern</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
