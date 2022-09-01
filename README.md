@@ -13,7 +13,7 @@
     </td>
     <td>
       <a title="A C++ evolutionary computation framework to (automatically) build fast parallel stochastic optimization solvers." href="https://github.com/nojhan/paradiseo">
-        <img width="200" src="https://raw.githubusercontent.com/nojhan/paradiseo/master/docs/img/paradiseo_logo.svg" />
+        <img width="200" src="https://raw.githubusercontent.com/nojhan/paradiseo/master/docs/img/paradiseo_logo_dark.svg" />
       </a>
     </td>
     <td>
