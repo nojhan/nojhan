@@ -8,7 +8,7 @@
     </td>
     <td>
       <a title="Color text streams with a polished command line interface."  href="https://github.com/nojhan/colout">
-        <img width="200" src="https://raw.githubusercontent.com/nojhan/colout/master/colout_logo.svg" />
+        <img width="250" src="https://raw.githubusercontent.com/nojhan/colout/master/colout_logo.svg" />
       </a>
     </td>
     <td>
@@ -43,6 +43,8 @@
       <a title="C++ exception class and macros with easy nested declaration and localisation data." href="https://github.com/nojhan/exceptions">exceptions</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <a title="Educational demo of design patterns which are useful for algorithmics." href="https://github.com/nojhan/algopattern">algopattern</a><br/>
       <img height="16" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png"/>
