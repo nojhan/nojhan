@@ -78,4 +78,5 @@
     </td>
   </tr>
 </table>
+<p>Want updates? Follow <a rel="me" href="https://mamot.fr/@nojhan">@nojhan@mamot.fr</a> on Mastodon.</p>
 </div>
