@@ -31,7 +31,7 @@
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
     <td>
-      <a title="Automagically backup a time stamped snapshot of a file that you edit with any program, each time you hit 'save'". href="https://github.com/nojhan/flicksave">flicksave</a><br/>
+      <a title="Automagically backup a time stamped snapshot of a file that you edit with any program, each time you hit 'save'". href="https://github.com/nojhan/flicksave">watchyap</a><br/>
       <img height="16" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
     </td>
     <td>
