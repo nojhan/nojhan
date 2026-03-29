@@ -1,6 +1,6 @@
 # THIS USER HAS MOVED
 
-I am now coding at available at: https://nojhan.net/git/nojhan/
+I am now coding at: https://nojhan.net/git/nojhan/
 
 You can federate with me from Codeberg or another Forgejo instance.
 
